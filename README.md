@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  I'm a Data Science & Mathematics student at <b>Tecnológico de Monterrey</b>[cite: 4, 5]. <br>
-  I'm passionate about the intersection of artificial intelligence, finance, and algorithm optimization.
+  I'm a Data Science & Mathematics student at <b>Tecnológico de Monterrey</b>. <br>
+  I'm passionate about the intersection of artificial intelligence, finance, and algorithms optimization.
 </p>
 
 ---
