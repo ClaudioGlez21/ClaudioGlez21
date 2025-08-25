@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  [cite_start]I'm a Data Science & Mathematics student at <b>Tecnológico de Monterrey</b>[cite: 4, 5]. <br>
+  I'm a Data Science & Mathematics student at <b>Tecnológico de Monterrey</b>[cite: 4, 5]. <br>
   I'm passionate about the intersection of artificial intelligence, finance, and algorithm optimization.
 </p>
 
