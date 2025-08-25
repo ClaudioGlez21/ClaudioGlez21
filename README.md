@@ -97,6 +97,6 @@
 ## 📫 Get In Touch
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/claudio-gonzalez-b533532a8/](https://www.linkedin.com/in/claudio-jose-gonzalez/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Claudio%20Gonzalez-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/claudio-jose-gonzalez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Claudio%20Gonzalez-0077B5?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:claudio.glez24@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-claudio.glez24@gmail.com-D14836?style=for-the-badge&logo=gmail"></a>
 </p>
