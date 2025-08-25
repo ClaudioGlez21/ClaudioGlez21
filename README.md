@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
 <table>
   <tr>
@@ -62,26 +62,26 @@
 
 ## 💼 Professional Experience
 
--   **Machine Learning Engineer Intern** at **Oracle** [cite: 10, 11]
-    -   *Focused on designing an Automated Program Repair (APR) system using LLMs and transformer models*. [cite: 13]
--   **Software Engineering Intern** at **True Data Science & Engineering** [cite: 16, 17]
-    -   *Developed a microservice-based electronic invoicing service on an AWS infrastructure (Lambda, DynamoDB)*. [cite: 19, 20]
--   **Software Engineering Intern** at **HP Inc - HP Labs** [cite: 22, 23]
-    -   *Implemented machine learning models to optimize 3D printing processes and designed part-packing algorithms*. [cite: 25, 26]
+-   **Machine Learning Engineer Intern** at **Oracle** 
+    -   *Focused on designing an Automated Program Repair (APR) system using LLMs and transformer models*. 
+-   **Software Engineering Intern** at **True Data Science & Engineering**
+    -   *Developed a microservice-based electronic invoicing service on an AWS infrastructure (Lambda, DynamoDB)*. 
+-   **Software Engineering Intern** at **HP Inc - HP Labs** 
+    -   *Implemented machine learning models to optimize 3D printing processes and designed part-packing algorithms*.
 
 ---
 
 ## 🚀 Featured Projects
 
--   **Personalized Financial Planning Tool** | [cite_start]*MLH HackMTY 2024* [cite: 29]
-    -   An AI-driven tool for financial planning that generates personalized recommendations[cite: 30, 33].
-    -   **Stack:** Python, OpenAI API, Streamlit, TensorFlow, Scikit-learn[cite: 32].
+-   **Personalized Financial Planning Tool** | *MLH HackMTY 2024* 
+    -   An AI-driven tool for financial planning that generates personalized recommendations.
+    -   **Stack:** Python, OpenAI API, Streamlit, TensorFlow, Scikit-learn.
 
 ---
 
 ## 💡 Leadership & Volunteering
 
--   **Board of Directors** at **Club de Algoritmia Guadalajara**, my university's largest computer science organization[cite: 40, 41, 42].
+-   **Board of Directors** at **Club de Algoritmia Guadalajara**, my university's largest computer science organization.
 
 ---
 
