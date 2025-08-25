@@ -11,7 +11,6 @@
 ## 🎓 Education
 
 - Studying Data Science and Mathematics at Tecnológico de Monterrey, Campus Guadalajara in Jalisco, Mexico
-- Expected graduation: June 2026
 
 ## 💼 Professional Experience
 
