@@ -62,26 +62,26 @@
 
 ## 💼 Professional Experience
 
--   [cite_start]**Machine Learning Engineer Intern** at **Oracle** [cite: 10, 11]
-    -   [cite_start]*Focused on designing an Automated Program Repair (APR) system using LLMs and transformer models*. [cite: 13]
--   [cite_start]**Software Engineering Intern** at **True Data Science & Engineering** [cite: 16, 17]
-    -   [cite_start]*Developed a microservice-based electronic invoicing service on an AWS infrastructure (Lambda, DynamoDB)*. [cite: 19, 20]
--   [cite_start]**Software Engineering Intern** at **HP Inc - HP Labs** [cite: 22, 23]
-    -   [cite_start]*Implemented machine learning models to optimize 3D printing processes and designed part-packing algorithms*. [cite: 25, 26]
+-   **Machine Learning Engineer Intern** at **Oracle** [cite: 10, 11]
+    -   *Focused on designing an Automated Program Repair (APR) system using LLMs and transformer models*. [cite: 13]
+-   **Software Engineering Intern** at **True Data Science & Engineering** [cite: 16, 17]
+    -   *Developed a microservice-based electronic invoicing service on an AWS infrastructure (Lambda, DynamoDB)*. [cite: 19, 20]
+-   **Software Engineering Intern** at **HP Inc - HP Labs** [cite: 22, 23]
+    -   *Implemented machine learning models to optimize 3D printing processes and designed part-packing algorithms*. [cite: 25, 26]
 
 ---
 
 ## 🚀 Featured Projects
 
 -   **Personalized Financial Planning Tool** | [cite_start]*MLH HackMTY 2024* [cite: 29]
-    -   [cite_start]An AI-driven tool for financial planning that generates personalized recommendations[cite: 30, 33].
-    -   [cite_start]**Stack:** Python, OpenAI API, Streamlit, TensorFlow, Scikit-learn[cite: 32].
+    -   An AI-driven tool for financial planning that generates personalized recommendations[cite: 30, 33].
+    -   **Stack:** Python, OpenAI API, Streamlit, TensorFlow, Scikit-learn[cite: 32].
 
 ---
 
 ## 💡 Leadership & Volunteering
 
--   [cite_start]**Board of Directors** at **Club de Algoritmia Guadalajara**, my university's largest computer science organization[cite: 40, 41, 42].
+-   **Board of Directors** at **Club de Algoritmia Guadalajara**, my university's largest computer science organization[cite: 40, 41, 42].
 
 ---
 
